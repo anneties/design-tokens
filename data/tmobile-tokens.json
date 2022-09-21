@@ -2,7 +2,7 @@
   "global": {
     "Brand": {
       "Primary": {
-        "value": "#5b7736",
+        "value": "#e20074",
         "type": "color",
         "description": "Primary brand color"
       },
@@ -1431,8 +1431,6 @@
   },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": [
-      "global"
-    ]
+    "tokenSetOrder": ["global"]
   }
 }
