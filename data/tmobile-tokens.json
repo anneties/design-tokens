@@ -2,7 +2,7 @@
   "global": {
     "Brand": {
       "Primary": {
-        "value": "#e20074",
+        "value": "#5b7736",
         "type": "color",
         "description": "Primary brand color"
       },
@@ -568,7 +568,7 @@
         "type": "fontSizes"
       },
       "9": {
-        "value": "48",
+        "value": "80",
         "type": "fontSizes"
       }
     },
